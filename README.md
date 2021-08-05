@@ -4,7 +4,7 @@
 - 🧠 My past experiences include full stack web development with a bit of cryptography 
 - 🧪 Currently trying to learn more about distributed systems
 - 🔍 Actively seeking Winter 2022 internship opportunities, open to any interesting collaboration opportunities!
-- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/jasonwang24), [Email](mailto:jason.wang1@uwaterloo.ca), or my [website](http://www.jasonwang.site)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jasonwang24), [Email](mailto:jason.wang1@uwaterloo.ca), or my [website](http://www.jasonwang.site)
 
 <!---
 jasonwang24/jasonwang24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
